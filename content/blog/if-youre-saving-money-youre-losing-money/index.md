@@ -5,7 +5,7 @@ description: 'An introduction to inflation in 2021 and what catalyzed my jump in
 ---
 
 ![Money printer go BRRR](./fred.png)
-####What a difference a year makes.
+#### What a difference a year makes.
 
 About a year and a half ago, I was writing a retrospective on my time with Microsoft and where I thought I was headed. In March of this year, I left Microsoft after over 9 years to work in the crypto industry. So what happened?
 
@@ -23,11 +23,11 @@ It may sound counterintuitive, but if you are holding dollars in a savings accou
 
 These numbers are updated monthly, and the current annual increase of consumer goods and services (as of November 2021) is 6.8%. Many will argue that the real number is actually higher, but let's just take it at face value for now. What does this 6.8% number mean when considering a 1.9% raise?
 
-####If your employer did not give you at least a 6.8% raise this year, you actually received a pay cut.
+#### If your employer did not give you at least a 6.8% raise this year, you actually received a pay cut.
 
 I am so grateful for my time with Microsoft and for the lifelong friends and memories I made while working there. This post is not meant to bash Microsoft, but to serve as an example of how most of us are losing money each year to the rising costs of goods and services.
 
-####Fortunately, there is a way out.
+#### Fortunately, there is a way out.
 
 I signed up for BlockFi in late 2019 after putting more research into what I could do to combat inflation. I am now earning up to 9% APY on my USD-equivalent deposits there (which happens to be higher than 6.8% if you weren't paying attention). Oh yeah, you can buy and hold Bitcoin there too.
 
