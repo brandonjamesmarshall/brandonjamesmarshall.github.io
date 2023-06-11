@@ -5,6 +5,7 @@ description: 'An introduction to inflation in 2021 and what catalyzed my jump in
 ---
 
 ![Money printer go BRRR](./fred.png)
+
 #### What a difference a year makes.
 
 About a year and a half ago, I was writing a retrospective on my time with Microsoft and where I thought I was headed. In March of this year, I left Microsoft after over 9 years to work in the crypto industry. So what happened?

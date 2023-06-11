@@ -39,7 +39,7 @@ export const pageQuery = graphql`
         linkedin
       }
     }
-    allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
+    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       edges {
         node {
           excerpt

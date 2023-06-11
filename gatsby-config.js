@@ -22,8 +22,7 @@ module.exports = {
         name: 'Shorty Awards - Finalist: Integrated Campaign',
         description:
           "I was nominated with my team for a Shorty Award for our work in launching the world's first crypto rewards credit card. Activation across social media played a big part in the card's success",
-        link:
-          'https://shortyawards.com/14th/blockfi-the-worlds-first-crypto-rewards-credit-card',
+        link: 'https://shortyawards.com/14th/blockfi-the-worlds-first-crypto-rewards-credit-card',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -37,8 +36,7 @@ module.exports = {
         name: 'BlockFi',
         description:
           'Social Media & Community Manager, March 2021 - January 2023',
-        link:
-          'https://twitter.com/search?q=(from%3Ablockfi)%20until%3A2022-11-09%20since%3A2021-04-01%20-filter%3Areplies&src=typed_query&f=top',
+        link: 'https://twitter.com/search?q=(from%3Ablockfi)%20until%3A2022-11-09%20since%3A2021-04-01%20-filter%3Areplies&src=typed_query&f=top',
       },
       {
         name: 'Microsoft',
@@ -57,8 +55,7 @@ module.exports = {
         name: 'BlockFi',
         description:
           'Social Media & Community Manager, March 2021 - January 2023',
-        link:
-          'https://twitter.com/search?q=(from%3Ablockfi)%20until%3A2022-11-09%20since%3A2021-04-01%20-filter%3Areplies&src=typed_query&f=top',
+        link: 'https://twitter.com/search?q=(from%3Ablockfi)%20until%3A2022-11-09%20since%3A2021-04-01%20-filter%3Areplies&src=typed_query&f=top',
       },
       {
         name: 'Microsoft',
